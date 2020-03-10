@@ -1,0 +1,2 @@
+O banco de dados é uma coleção de dados agrupadas sobre um determinado assunto, logo é onde os dados estão armazenados.
+Um SGBD ou Sistema Gerenciador do Banco de Dados, é um conjunto de softwares responsáveis pela manipulação e interação do banco de dados com o usuário. 

@@ -1,0 +1,1 @@
+SELECT p.numero_pedido, c.nome, v.nome_vendedor FROM pedidos p, clientes c, vendedores v WHERE p.codigo_cliente=c.codigo_cliente AND p.codigo_vendedor=v.codigo_vendedor
