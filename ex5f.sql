@@ -1,1 +1,2 @@
-SELECT SUM(it.quantidade) AS soma FROM item_pedidos it, pedidos p WHERE it.numero_pedido=p.numero_pedido
+SELECT SUM(it.quantidade) AS soma FROM item_pedidos it 
+JOIN pedidos p ON it.numero_pedido=p.numero_pedido
